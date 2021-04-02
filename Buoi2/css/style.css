@@ -1,0 +1,19 @@
+#title1 {
+  color: aqua;
+  background-color: black;
+}
+#title2 {
+  color: black;
+}
+#title3 {
+  color: blueviolet;
+}
+p {
+  background-color: goldenrod;
+}
+body {
+  color: red;
+}
+.common {
+  background-color: chartreuse;
+}
